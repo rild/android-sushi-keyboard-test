@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">android-sushi-keybord-test</string>
+    <string name="simple_ime">Simple IME</string>
+    <string name="subtype_en_US">English (US)</string>
+
+    <string name="fast_input_label">Sushi IME</string>
+</resources>
